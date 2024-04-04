@@ -1,19 +1,27 @@
 <div id="header" align="center">
-  <img src="[https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif](https://img.freepik.com/free-photo/top-view-of-workspace-with-laptop-and-notebook_23-2148430831.jpg?w=1480&t=st=1710942556~exp=1710943156~hmac=9bf3c087583e06224a1adb006b11276954ee2faff73100faca950eb1672a05b8)" width="100"/>
+  <img src="https://github.com/mariyaaliyeva/mariyaaliyeva/assets/102585345/1c3597f5-23af-4249-8718-7d48e6c8f2ed" width="100"/>
 </div>
  <img src="https://komarev.com/ghpvc/?username=mariyaaliyeva&style=flat-square&color=blue" alt=""/>
  <h1>
-  hey there
+   Hey! Nice to see you.
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 <div align="center">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+  <img src="https://github.com/mariyaaliyeva/mariyaaliyeva/assets/102585345/9ddb5fce-b1ec-408f-8eac-9cead25840af" width="600" height="300"/>
 </div>
-  :woman_technologist: About Me :
-I am a IOS Developer from Kazakhstan.
----
+
+  :woman_technologist: <i>Welcome to my page!</i>
+  <p>I am an IOS Developer from Kazakhstan.</p>
 
 ### :hammer_and_wrench: Languages and Tools :
-<div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/swift/swift-original-wordmark.svg" title="Swift" alt="Swift" width="40" height="40"/>&nbsp;
-</div>
+  <img src="https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white" >
+ <img src=https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+<img src=https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white>
+
+### Where to find me:
+
+<a href="https://www.linkedin.com/in/mariya-aliyeva">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>&nbsp;
+  </a>
+
